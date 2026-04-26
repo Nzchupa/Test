@@ -1,2 +1,2 @@
-module GitHub_Test {
+module Test1 {
 }
